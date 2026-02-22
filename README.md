@@ -10,3 +10,8 @@ Proje Yapısı:
 Abstract: Interfaceler ve soyut tanımlamalar (IEntityRepository, IFilmService, IYonetmenService vb.)
 Concrete: İş mantığı sınıfları ve DbContext implementasyonları.
 Models: Veritabanı tablolarını temsil eden Entity sınıfları.
+
+Video linki = https://github.com/user-attachments/assets/50f5361f-bcbd-4ad3-89da-719fd52979e2
+
+
+
